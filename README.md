@@ -19,7 +19,7 @@ Unlike many online tools, RemoveG processes images locally in your browser whene
 
 ## Website
 <p align="center">
-<img src="/removeg.png" width="180">
+<img src="/removeg.png" alt="RemoveG Home Page" width="100">
 </p>
 
 https://removeg.io/en/
