@@ -18,6 +18,9 @@ RemoveG.io is a free online Gemini watermark remover that helps users remove Gem
 Unlike many online tools, RemoveG processes images locally in your browser whenever possible. Your files remain under your control, providing a faster and more private experience.
 
 ## Website
+<p align="center">
+<img src="/removeg.png" width="180">
+</p>
 
 https://removeg.io/en/
 
